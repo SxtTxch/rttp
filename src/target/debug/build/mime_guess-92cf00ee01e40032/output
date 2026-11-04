@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/sxttxch/rttp/src/target/debug/build/mime_guess-92cf00ee01e40032/out/mime_types_generated.rs
